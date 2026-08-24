@@ -44,8 +44,6 @@ jupyter notebook notebook/student_drug_addiction_detection.ipynb
 ## Report
 See [`report/Project_Report.pdf`](report/Project_Report.pdf) for the full write-up (methodology, results, and discussion).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Course Info
 - **Course:** CSE412 – Artificial Intelligence Lab
